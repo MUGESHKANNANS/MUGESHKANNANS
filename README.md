@@ -72,8 +72,9 @@ I specialize in building **modern, responsive, and user-friendly web application
  
   <br/><br/>
 
- <a href="https://linkedin.com/in/mugeshkannans" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://linkedin.com/in/mugeshkannans" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn icon" style="vertical-align: middle;"/> 
+  <span style="margin-left: 5px;">linkedin.com/in/mugeshkannans</span>
 </a>
 
   
@@ -83,7 +84,7 @@ I specialize in building **modern, responsive, and user-friendly web application
   <a href="https://github.com/MUGESHKANNANS" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-Follow:github.com/MUGESHKANNANS-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>  
-  &nbsp;
+  
 
 </p>
 
