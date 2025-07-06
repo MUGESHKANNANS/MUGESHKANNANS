@@ -161,6 +161,15 @@ I specialize in building **modern, responsive, and user-friendly web application
 - 🎮 I enjoy games that challenge problem-solving and logic  
 
 ---
+---
+## 🧠 LeetCode Stats
+
+![LeetCode Card](https://leetcard.jacoblin.cool/Mugeshkannan04?theme=dark&ext=heatmap)
+
+
+
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
