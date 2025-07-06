@@ -57,6 +57,7 @@ I specialize in building **modern, responsive, and user-friendly web application
 
 ## 🔗 Reach Me
 
+
 <p align="left">
 
   <a href="mailto:kannanmugesh04@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -71,9 +72,8 @@ I specialize in building **modern, responsive, and user-friendly web application
 
   <br/><br/>
 
-  <a href="https://linkedin.com/in/mugeshkannans" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn icon" style="margin-right: 8px;" />
-    <span style="font-size: 16px; color: #0A66C2;">linkedin.com/in/mugeshkannans</span>
+  <a href="https://linkedin.com/in/mugeshkannans" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-linkedin.com/in/mugeshkannans-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>  
 
   <br/><br/>
@@ -84,10 +84,12 @@ I specialize in building **modern, responsive, and user-friendly web application
 
 </p>
 
+
 ---
 
 
 ## 🛠️ Tech Stack
+
 
 ### 🧩 Frontend Development
 <p>
