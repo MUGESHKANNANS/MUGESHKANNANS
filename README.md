@@ -1,20 +1,37 @@
-👋 Hi, I’m @MUGESHKANNANS
+# 👋 Hi, I'm Mugesh Kannan (@MUGESHKANNANS)
 
-👀 I’m interested in Web Development, AI Projects, and UI/UX Design
+🚀 Final Year B.E. | Artificial Intelligence & Machine Learning  
+🎯 Passionate Full-Stack Developer | Creative UI/UX Designer | AI Enthusiast  
 
-🌱 I’m currently learning Flask, Node.js, and Advanced React
+---
 
-💞️ I’m looking to collaborate on AI-powered web apps, health/finance tech tools, and open-source projects
+## 💡 About Me
+- 👀 Exploring the world of **Web Development**, **AI Projects**, and **UI/UX Design**
+- 🌱 Currently learning **Flask**, **Node.js**, and **Advanced React**
+- 🤝 Open to collaborating on:
+  - AI-powered web apps  
+  - Health & Finance tech tools  
+  - Open-source projects
 
-📫 How to reach me: 22am036@kpriet.ac.in or https://mugeshkannan.vercel.app
+---
 
-😄 Pronouns: He/Him
+## 📬 Reach Me
+- 📧 Email: [kannanmugesh04@gmail.com](kannanmugesh04@gmail.com)  
+- 🌐 Portfolio: [mugeshkannan.vercel.app](https://mugeshkannan.vercel.app)
 
-⚡ Fun fact: I can design, code, and deliver a working web app in 48 hours (hackathon-tested 💪)
+---
 
+## 🙋‍♂️ Quick Facts
+- 😄 Pronouns: He/Him  
+- ⚡ Fun Fact: I can **design, code, and deploy a full-stack web app in under 48 hours** — hackathon-tested 💪  
+- 🧠 I believe in building real-world projects to learn and grow  
 
+---
 
-<!---
-MUGESHKANNANS/MUGESHKANNANS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack
+
+```bash
+Frontend:  React.js, Next.js, Tailwind CSS, HTML5, CSS3, JS/TS  
+Backend:   Node.js, Express.js, Flask, Firebase, Supabase  
+Database:  MongoDB, MySQL  
+Tools:     Git, GitHub, Vercel, Figma, Postman, Canva  
