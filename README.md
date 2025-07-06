@@ -62,21 +62,21 @@ I specialize in building **modern, responsive, and user-friendly web application
   <a href="mailto:kannanmugesh04@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-kannanmugesh04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>  
-  &nbsp;
+  
 
   <br/><br/>
 
   <a href="https://mugeshkannan.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit:mugeshkannan.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>  
-  &nbsp;
-
+ 
   <br/><br/>
 
-  <a href="https://linkedin.com/in/mugeshkannans" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect:linkedin.com/in/mugeshkannan-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>  
-  &nbsp;
+ <a href="https://linkedin.com/in/mugeshkannans" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+  
 
   <br/><br/>
 
