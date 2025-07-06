@@ -9,7 +9,7 @@
 <h1 align="center">👋 Hi, I'm Mugesh Kannan (@MUGESHKANNANS)</h1>
 
 <p align="center">
-  🚀 | Freelancer | Final Year B.E. | Artificial Intelligence & Machine Learning 
+  🚀  Freelancer | Final Year B.E Artificial Intelligence & Machine Learning 
   <br/>
   🎯 Passionate Full-Stack Developer | Creative UI/UX Designer
 </p>
