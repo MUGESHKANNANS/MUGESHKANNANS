@@ -124,32 +124,33 @@ I specialize in building **modern, responsive, and user-friendly web application
 
 ## 🚀 Project Showcase (25+ Projects)
 
+
 | #  | 🏷️ Project Title | 🗂️ Category | 🛠️ Tech Stack | 🌐 Live Demo |
 |----|------------------|-------------|----------------|--------------|
-| 1  | **Annox** – Business Optimization & Cloud | 🖥️ IT Solutions | Next.js, Tailwind | [annox.in](https://annox.in){:target="_blank"} |
-| 2  | **E-Shopy** – E-commerce Web App | 🛒 E-Commerce | React, Firebase | [e-shopy.ch](https://e-shopy.ch){:target="_blank"} |
-| 3  | **MyZipLink** – Events, Web & Branding | 🎨 Branding | React, Tailwind | [myziplink.com](https://myziplink.com){:target="_blank"} |
-| 4  | **Sree Vedha** – Handmade Goods Store | 🛍️ E-Commerce | Shopify | [sreevedha.shop](https://www.sreevedha.shop/){:target="_blank"} |
-| 5  | **SeekNSolveSolution** – IT Consultancy | 🧠 IT Services | React, Tailwind | [seeknsolvesolution.vercel.app](https://seeknsolvesolution.vercel.app/){:target="_blank"} |
-| 6  | **HallSystem** – Event Booking Platform | 🏛️ Event Mgmt | MERN Stack | [hallsystem.vercel.app](https://hallsystem.vercel.app/){:target="_blank"} |
-| 7  | **Xylora** – Game Development Studio | 🎮 Game Dev | HTML, CSS, JS | [xylora-sample.vercel.app](https://xylora-sample.vercel.app/){:target="_blank"} |
-| 8  | **Gigeo Bill System** – Billing Automation | 💵 FinTech | React, Node.js | [gigeobillsystem.vercel.app](https://gigeobillsystem.vercel.app/){:target="_blank"} |
-| 9  | **Gigeo Enterprises** – Business Platform | 🧾 Business | WordPress | [dev-gigeoenterprises.pantheonsite.io](https://dev-gigeoenterprises.pantheonsite.io){:target="_blank"} |
-| 10 | **Rajartss** – Abstract Art Gallery | 🖼️ Creative | React | [rajartss.com](https://www.rajartss.com/){:target="_blank"} |
-| 11 | **Bharath Forklift** – Equipment Rental | 🚜 Rentals | React, Tailwind | [forklift-mu.vercel.app](https://forklift-mu.vercel.app/){:target="_blank"} |
-| 12 | **Supreme KamTech** – Seaweed Cultivation | 🌿 AgriTech | React | [supremekamtech.vercel.app](https://supremekamtech.vercel.app/){:target="_blank"} |
-| 13 | **Rajagopal Portfolio** – Dev Portfolio | 👨‍💻 Web Portfolio | React | [rajagopal-portfolio.vercel.app](https://rajagopal-portfolio.vercel.app/){:target="_blank"} |
-| 14 | **ExploitX CTF** – Cybersecurity Platform | 🔐 CTF | React, Firebase | [exploitx-ctf.in](https://www.exploitx-ctf.in){:target="_blank"} |
-| 15 | **KPR Awards** – Nomination Portal | 🏅 Academic | React, Vite | [awardkpriet02.vercel.app](https://awardkpriet02.vercel.app){:target="_blank"} |
-| 16 | **3D Product Viewer** – Three.js Showcase | 🧊 3D Web | Three.js | [3dmodelv1.vercel.app](https://3dmodelv1.vercel.app){:target="_blank"} |
-| 17 | **CertificateGenX** – Bulk Certificate Generator | 📄 Automation | React, SheetJS | [certificategenx.vercel.app](https://certificategenx.vercel.app){:target="_blank"} |
-| 18 | **Nandhagopal Portfolio** – Academic Profile | 👨‍🎓 Profile | React | [nandhagopals.vercel.app](https://nandhagopals.vercel.app){:target="_blank"} |
-| 19 | **CardsGenX** – QR Label Generator | 🪪 Automation | React | [cardsgenx.vercel.app](https://cardsgenx.vercel.app){:target="_blank"} |
-| 20 | **Eden Park** – SaaS Product Showcase | 📈 Product | React | [edenparknew.vercel.app](https://edenparknew.vercel.app){:target="_blank"} |
-| 21 | **AIML Dept Portal** – KPRIET Dept Site | 🎓 Academic | React | [aiml-phi.vercel.app](https://aiml-phi.vercel.app/){:target="_blank"} |
-| 22 | **Dr. Kothai Portfolio** – Research Profile | 📚 Academic | React | [kothai.vercel.app](https://kothai.vercel.app/){:target="_blank"} |
-| 23 | **TaskHub** – Collaborative Task Manager | ✅ Productivity Tool | Next.js, Supabase, Social Login | [taskhub-todo.vercel.app](https://taskhub-todo.vercel.app/){:target="_blank"} |
-| 24 | **DonorAid** – Smart Donation Platform | 🤝 Donation Platform | Next.js, Supabase, Email | [donoraid.vercel.app](https://donoraid.vercel.app/){:target="_blank"} |
+| 1  | **Annox** – Business Optimization & Cloud | 🖥️ IT Solutions | Next.js, Tailwind | <a href="https://annox.in" target="_blank">annox.in</a> |
+| 2  | **E-Shopy** – E-commerce Web App | 🛒 E-Commerce | React, Firebase | <a href="https://e-shopy.ch" target="_blank">e-shopy.ch</a> |
+| 3  | **MyZipLink** – Events, Web & Branding | 🎨 Branding | React, Tailwind | <a href="https://myziplink.com" target="_blank">myziplink.com</a> |
+| 4  | **Sree Vedha** – Handmade Goods Store | 🛍️ E-Commerce | Shopify | <a href="https://www.sreevedha.shop" target="_blank">sreevedha.shop</a> |
+| 5  | **SeekNSolveSolution** – IT Consultancy | 🧠 IT Services | React, Tailwind | <a href="https://seeknsolvesolution.vercel.app" target="_blank">seeknsolvesolution.vercel.app</a> |
+| 6  | **HallSystem** – Event Booking Platform | 🏛️ Event Mgmt | MERN Stack | <a href="https://hallsystem.vercel.app" target="_blank">hallsystem.vercel.app</a> |
+| 7  | **Xylora** – Game Development Studio | 🎮 Game Dev | HTML, CSS, JS | <a href="https://xylora-sample.vercel.app" target="_blank">xylora-sample.vercel.app</a> |
+| 8  | **Gigeo Bill System** – Billing Automation | 💵 FinTech | React, Node.js | <a href="https://gigeobillsystem.vercel.app" target="_blank">gigeobillsystem.vercel.app</a> |
+| 9  | **Gigeo Enterprises** – Business Platform | 🧾 Business | WordPress | <a href="https://dev-gigeoenterprises.pantheonsite.io" target="_blank">dev-gigeoenterprises.pantheonsite.io</a> |
+| 10 | **Rajartss** – Abstract Art Gallery | 🖼️ Creative | React | <a href="https://www.rajartss.com" target="_blank">rajartss.com</a> |
+| 11 | **Bharath Forklift** – Equipment Rental | 🚜 Rentals | React, Tailwind | <a href="https://forklift-mu.vercel.app" target="_blank">forklift-mu.vercel.app</a> |
+| 12 | **Supreme KamTech** – Seaweed Cultivation | 🌿 AgriTech | React | <a href="https://supremekamtech.vercel.app" target="_blank">supremekamtech.vercel.app</a> |
+| 13 | **Rajagopal Portfolio** – Dev Portfolio | 👨‍💻 Web Portfolio | React | <a href="https://rajagopal-portfolio.vercel.app" target="_blank">rajagopal-portfolio.vercel.app</a> |
+| 14 | **ExploitX CTF** – Cybersecurity Platform | 🔐 CTF | React, Firebase | <a href="https://www.exploitx-ctf.in" target="_blank">exploitx-ctf.in</a> |
+| 15 | **KPR Awards** – Nomination Portal | 🏅 Academic | React, Vite | <a href="https://awardkpriet02.vercel.app" target="_blank">awardkpriet02.vercel.app</a> |
+| 16 | **3D Product Viewer** – Three.js Showcase | 🧊 3D Web | Three.js | <a href="https://3dmodelv1.vercel.app" target="_blank">3dmodelv1.vercel.app</a> |
+| 17 | **CertificateGenX** – Bulk Certificate Generator | 📄 Automation | React, SheetJS | <a href="https://certificategenx.vercel.app" target="_blank">certificategenx.vercel.app</a> |
+| 18 | **Nandhagopal Portfolio** – Academic Profile | 👨‍🎓 Profile | React | <a href="https://nandhagopals.vercel.app" target="_blank">nandhagopals.vercel.app</a> |
+| 19 | **CardsGenX** – QR Label Generator | 🪪 Automation | React | <a href="https://cardsgenx.vercel.app" target="_blank">cardsgenx.vercel.app</a> |
+| 20 | **Eden Park** – SaaS Product Showcase | 📈 Product | React | <a href="https://edenparknew.vercel.app" target="_blank">edenparknew.vercel.app</a> |
+| 21 | **AIML Dept Portal** – KPRIET Dept Site | 🎓 Academic | React | <a href="https://aiml-phi.vercel.app" target="_blank">aiml-phi.vercel.app</a> |
+| 22 | **Dr. Kothai Portfolio** – Research Profile | 📚 Academic | React | <a href="https://kothai.vercel.app" target="_blank">kothai.vercel.app</a> |
+| 23 | **TaskHub** – Collaborative Task Manager | ✅ Productivity Tool | Next.js, Supabase, Social Login | <a href="https://taskhub-todo.vercel.app" target="_blank">taskhub-todo.vercel.app</a> |
+| 24 | **DonorAid** – Smart Donation Platform | 🤝 Donation Platform | Next.js, Supabase, Email | <a href="https://donoraid.vercel.app" target="_blank">donoraid.vercel.app</a> |
 
 ---
 
