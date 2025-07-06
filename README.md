@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Mugesh+Kannan;Full-Stack+Web+Developer;UI%2FUX+Designer;AI+Project+Builder;&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Mugesh+Kannan;Full-Stack+Web+Developer;UI%2FUX+Designer;&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 <h1 align="center">👋 Hi, I'm Mugesh Kannan (@MUGESHKANNANS)</h1>
 
 <p align="center">
-  🚀 Final Year B.E. | Artificial Intelligence & Machine Learning  
+  🚀 Final Year B.E. | Artificial Intelligence & Machine Learning | Freelancer
   <br/>
   🎯 Passionate Full-Stack Developer | Creative UI/UX Designer
 </p>
@@ -59,31 +59,31 @@ I specialize in building **modern, responsive, and user-friendly web application
 
 <p align="left">
 
-  <a href="mailto:22am036@kpriet.ac.in">
-    <img src="https://img.shields.io/badge/Gmail-22am036@kpriet.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:kannanmugesh04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kannanmugesh04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>  
-  &nbsp; ➤ [**22am036@kpriet.ac.in**](mailto:22am036@kpriet.ac.in)
+  &nbsp; ➤ (mailto:kannnamugesh04@gmail.com)
 
   <br/><br/>
 
   <a href="https://mugeshkannan.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>  
-  &nbsp; ➤ [**mugeshkannan.vercel.app**](https://mugeshkannan.vercel.app)
+  &nbsp; ➤ (https://mugeshkannan.vercel.app)
 
   <br/><br/>
 
   <a href="https://linkedin.com/in/mugeshkannan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>  
-  &nbsp; ➤ [**linkedin.com/in/mugeshkannan**](https://linkedin.com/in/mugeshkannan)
+  &nbsp; ➤ (https://linkedin.com/in/mugeshkannan)
 
   <br/><br/>
 
   <a href="https://github.com/MUGESHKANNANS" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>  
-  &nbsp; ➤ [**github.com/MUGESHKANNANS**](https://github.com/MUGESHKANNANS)
+  &nbsp; ➤ (https://github.com/MUGESHKANNANS)
 
 </p>
 
