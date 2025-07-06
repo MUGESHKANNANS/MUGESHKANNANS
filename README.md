@@ -137,7 +137,7 @@ I specialize in building **modern, responsive, and user-friendly web application
 | 11 | **Bharath Forklift** – Equipment Rental | 🚜 Rentals | React, Tailwind | <a href="https://forklift-mu.vercel.app" target="_blank">forklift-mu.vercel.app</a> |
 | 12 | **Supreme KamTech** – Seaweed Cultivation | 🌿 AgriTech | React | <a href="https://supremekamtech.vercel.app" target="_blank">supremekamtech.vercel.app</a> |
 | 13 | **Rajagopal Portfolio** – Dev Portfolio | 👨‍💻 Web Portfolio | React | <a href="https://rajagopal-portfolio.vercel.app" target="_blank">rajagopal-portfolio.vercel.app</a> |
-| 14 | **ExploitX CTF** – Cybersecurity Platform | 🔐 CTF | React, Firebase | <a href="[https://www.exploitx-ctf.in](https://exploitx-kpriet.vercel.app/)" target="_blank">exploitx-ctf.in</a> |
+| 14 | **ExploitX CTF** – Cybersecurity Platform | 🔐 CTF | React, Firebase | <a href="https://www.exploitx-ctf.in" target="_blank">exploitx-kpriet.vercel.app/</a> |
 | 15 | **KPR Awards** – Nomination Portal | 🏅 Academic | React, Vite | <a href="https://awardkpriet02.vercel.app" target="_blank">awardkpriet02.vercel.app</a> |
 | 16 | **3D Product Viewer** – Three.js Showcase | 🧊 3D Web | Three.js | <a href="https://3dmodelv1.vercel.app" target="_blank">3dmodelv1.vercel.app</a> |
 | 17 | **CertificateGenX** – Bulk Certificate Generator | 📄 Automation | React, SheetJS | <a href="https://certificategenx.vercel.app" target="_blank">certificategenx.vercel.app</a> |
