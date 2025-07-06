@@ -47,37 +47,71 @@ I specialize in building **modern, responsive, and user-friendly web application
 
 ## ✨ Life Motto
 
-> _"Code for people, not machines."_  
-> _"பற்றுக்கு உள்ள மருந்து செயல் – effort is the cure for failure."_ – Inspired by Thirukkural
+> _“The best time to plant a tree was 20 years ago. The second best time is now.”_ 🌱  
+> — *Start today. Your future self will thank you.*
+
+> _"மரத்தை நட்டு வளர்க்க ஏற்ற நேரம் 20 வருடங்களுக்கு முன் தான். அடுத்த சிறந்த நேரம் இன்று."_ 🌿  
+> — *இன்று துவங்குங்கள் — நாளைய நீ தன்னைத்தான் பாராட்டுவாய்.*
 
 ---
 
 ## 🔗 Reach Me
 
 <p align="left">
-  <a href="mailto:22am036@kpriet.ac.in"><img src="https://img.shields.io/badge/Email-22am036@kpriet.ac.in-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://mugeshkannan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mugeshkannan.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mugeshkannan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="mailto:22am036@kpriet.ac.in">
+    <img src="https://img.shields.io/badge/Gmail-22am036@kpriet.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> </br>
+  <a href="https://mugeshkannan.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a></br>
+  <a href="https://linkedin.com/in/mugeshkannan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a></br>
+  <a href="https://github.com/MUGESHKANNANS">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+ 
 </p>
 
 ---
 
 ## 🛠️ My Tech Stack
 
-<table>
-<tr>
-  <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css" /></td>
-</tr>
-<tr>
-  <td><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,flask,supabase" /></td>
-</tr>
-<tr>
-  <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></td>
-</tr>
-<tr>
-  <td><img src="https://skillicons.dev/icons?i=git,github,vercel,figma,postman,canva" /></td>
-</tr>
-</table>
+## 🛠️ Tech Stack
+
+### 🧩 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend & Server
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,supabase" />
+</p>
+
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### 🧰 Dev Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
+  <img src="https://img.shields.io/badge/Postman-FE6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### 🎨 Design & Prototyping
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva,adobephotoshop" />
+</p>
+
+### 🧠 AI & Data (Basics)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
 ---
 
@@ -113,12 +147,12 @@ I specialize in building **modern, responsive, and user-friendly web application
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUGESHKANNANS&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUGESHKANNANS&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MUGESHKANNANS&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUGESHKANNANS&theme=radical" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUGESHKANNANS&layout=compact&theme=tokyonight" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUGESHKANNANS&layout=compact&theme=radical" width="40%"/>
 </p>
 
 ---
