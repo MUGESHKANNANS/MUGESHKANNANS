@@ -1,4 +1,10 @@
 <p align="center">
+  🚀  Freelancer | Final Year B.E Artificial Intelligence & Machine Learning 
+  <br/>
+  🎯 Passionate Full-Stack Developer | Creative UI/UX Designer
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Mugesh+Kannan;Full-Stack+Web+Developer;UI%2FUX+Designer;&center=true&width=500&height=45">
 </p>
 
@@ -8,11 +14,6 @@
 
 <h1 align="center">👋 Hi, I'm Mugesh Kannan (@MUGESHKANNANS)</h1>
 
-<p align="center">
-  🚀  Freelancer | Final Year B.E Artificial Intelligence & Machine Learning 
-  <br/>
-  🎯 Passionate Full-Stack Developer | Creative UI/UX Designer
-</p>
 
 ---
 
@@ -171,6 +172,9 @@ I specialize in building **modern, responsive, and user-friendly web application
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUGESHKANNANS&layout=compact&theme=radical" width="40%"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MUGESHKANNANS&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile view counter" />
+</p>
 
 ---
 <!---
