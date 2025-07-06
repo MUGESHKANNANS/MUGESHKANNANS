@@ -11,7 +11,7 @@
 <p align="center">
   🚀 Final Year B.E. | Artificial Intelligence & Machine Learning  
   <br/>
-  🎯 Passionate Full-Stack Developer | Creative UI/UX Designer | AI Enthusiast  
+  🎯 Passionate Full-Stack Developer | Creative UI/UX Designer
 </p>
 
 ---
@@ -57,25 +57,36 @@ I specialize in building **modern, responsive, and user-friendly web application
 
 ## 🔗 Reach Me
 
+## 📬 Reach Me
+
 <p align="left">
   <a href="mailto:22am036@kpriet.ac.in">
     <img src="https://img.shields.io/badge/Gmail-22am036@kpriet.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a> </br>
+  </a>  
+  ➤ [22am036@kpriet.ac.in](mailto:22am036@kpriet.ac.in)
+  <br/><br/>
+
   <a href="https://mugeshkannan.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a></br>
+  </a>  
+  ➤ [mugeshkannan.vercel.app](https://mugeshkannan.vercel.app)
+  <br/><br/>
+
   <a href="https://linkedin.com/in/mugeshkannan">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a></br>
+  </a>  
+  ➤ [linkedin.com/in/mugeshkannan](https://linkedin.com/in/mugeshkannan)
+  <br/><br/>
+
   <a href="https://github.com/MUGESHKANNANS">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
- 
+  </a>  
+  ➤ [github.com/MUGESHKANNANS](https://github.com/MUGESHKANNANS)
 </p>
+
 
 ---
 
-## 🛠️ My Tech Stack
 
 ## 🛠️ Tech Stack
 
@@ -103,14 +114,6 @@ I specialize in building **modern, responsive, and user-friendly web application
 ### 🎨 Design & Prototyping
 <p>
   <img src="https://skillicons.dev/icons?i=figma,canva,adobephotoshop" />
-</p>
-
-### 🧠 AI & Data (Basics)
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ---
