@@ -9,7 +9,7 @@
 <h1 align="center">👋 Hi, I'm Mugesh Kannan (@MUGESHKANNANS)</h1>
 
 <p align="center">
-  🚀 Final Year B.E. | Artificial Intelligence & Machine Learning | Freelancer
+  🚀 | Freelancer | Final Year B.E. | Artificial Intelligence & Machine Learning 
   <br/>
   🎯 Passionate Full-Stack Developer | Creative UI/UX Designer
 </p>
@@ -62,28 +62,28 @@ I specialize in building **modern, responsive, and user-friendly web application
   <a href="mailto:kannanmugesh04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-kannanmugesh04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>  
-  &nbsp; ➤ (mailto:kannnamugesh04@gmail.com)
+  &nbsp;
 
   <br/><br/>
 
   <a href="https://mugeshkannan.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit:mugeshkannan.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>  
-  &nbsp; ➤ (https://mugeshkannan.vercel.app)
+  &nbsp;
 
   <br/><br/>
 
   <a href="https://linkedin.com/in/mugeshkannan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect:linkedin.com/in/mugeshkannan-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>  
-  &nbsp; ➤ (https://linkedin.com/in/mugeshkannan)
+  &nbsp;
 
   <br/><br/>
 
   <a href="https://github.com/MUGESHKANNANS" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow:github.com/MUGESHKANNAN-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>  
-  &nbsp; ➤ (https://github.com/MUGESHKANNANS)
+  &nbsp;
 
 </p>
 
@@ -123,30 +123,34 @@ I specialize in building **modern, responsive, and user-friendly web application
 
 ## 🚀 Project Showcase (25+ Projects)
 
-| # | Title | Category | Link |
-|---|-------|----------|------|
-| 1 | **Annox** – Business Optimization & Cloud Solutions | IT | [annox.in](https://annox.in) |
-| 2 | **E-Shopy** – E-commerce Web App | E-Commerce | [e-shopy.ch](https://e-shopy.ch) |
-| 3 | **MyZipLink** – Events, Web & Branding | Branding | [myziplink.com](https://myziplink.com) |
-| 4 | **Sree Vedha** – Handmade Goods | E-Commerce | [sreevedha.shop](https://www.sreevedha.shop/) |
-| 5 | **SeekNSolveSolution** – IT Consultancy | IT Solutions | [seeknsolvesolution.vercel.app](https://seeknsolvesolution.vercel.app/) |
-| 6 | **HallSystem** – Hall & Event Booking | Event Mgmt | [hallsystem.vercel.app](https://hallsystem.vercel.app/) |
-| 7 | **Xylora** – Game Development Studio | Game Dev | [xylora-sample.vercel.app](https://xylora-sample.vercel.app/) |
-| 8 | **Gigeo Bill System** – Billing Automation | FinTech | [gigeobillsystem.vercel.app](https://gigeobillsystem.vercel.app/) |
-| 9 | **Gigeo Enterprises** – Business Platform | Business | [Gigeo Enterprises](https://dev-gigeoenterprises.pantheonsite.io) |
-| 10 | **Rajartss** – Abstract Art Gallery | Creative | [rajartss.com](https://www.rajartss.com/) |
-| 11 | **Bharath Forklift** – Equipment Rental Site | Rental | [forklift-mu.vercel.app](https://forklift-mu.vercel.app/) |
-| 12 | **Supreme KamTech** – Seaweed Cultivation | AgriTech | [supremekamtech.vercel.app](https://supremekamtech.vercel.app/) |
-| 13 | **Rajagopal Portfolio** – Frontend Dev Portfolio | Web | [rajagopal-portfolio.vercel.app](https://rajagopal-portfolio.vercel.app/) |
-| 14 | **ExploitX CTF** – Cybersecurity Platform | CTF | [exploitx-ctf.in](https://www.exploitx-ctf.in) |
-| 15 | **KPR Awards** – Nomination Portal | Academic | [awardkpriet02.vercel.app](https://awardkpriet02.vercel.app) |
-| 16 | **3D Product Viewer** – Built with Three.js | 3D | [3dmodelv1.vercel.app](https://3dmodelv1.vercel.app) |
-| 17 | **CertificateGenX** – Bulk Certificate Generator | Automation | [certificategenx.vercel.app](https://certificategenx.vercel.app) |
-| 18 | **Nandhagopal Portfolio** – Academic Website | Profile | [nandhagopals.vercel.app](https://nandhagopals.vercel.app) |
-| 19 | **CardsGenX** – Student QR Label Generator | Automation | [cardsgenx.vercel.app](https://cardsgenx.vercel.app) |
-| 20 | **Eden Park** – SaaS Product Showcase | Product | [edenparknew.vercel.app](https://edenparknew.vercel.app) |
-| 21 | **AIML Dept Portal** – KPRIET Official Site | Academic | [aiml-phi.vercel.app](https://aiml-phi.vercel.app/) |
-| 22 | **Dr. Kothai Portfolio** – Research Profile | Academic | [kothai.vercel.app](https://kothai.vercel.app/) |
+## 🚀 Project Showcase (27+ Projects)
+
+| #  | 🏷️ Project Title | 🌐 Live Demo | 🗂️ Category | 🛠️ Tech Stack |
+|----|------------------|-------------|-------------|----------------|
+| 1  | **Annox** – Business Optimization & Cloud | [annox.in](https://annox.in) | 🖥️ IT Solutions | Next.js, Tailwind |
+| 2  | **E-Shopy** – E-commerce Web App | [e-shopy.ch](https://e-shopy.ch) | 🛒 E-Commerce | React, Firebase |
+| 3  | **MyZipLink** – Events, Web & Branding | [myziplink.com](https://myziplink.com) | 🎨 Branding | React, Tailwind |
+| 4  | **Sree Vedha** – Handmade Goods Store | [sreevedha.shop](https://www.sreevedha.shop/) | 🛍️ E-Commerce | Shopify |
+| 5  | **SeekNSolveSolution** – IT Consultancy | [seeknsolvesolution.vercel.app](https://seeknsolvesolution.vercel.app/) | 🧠 IT Services | React, Tailwind |
+| 6  | **HallSystem** – Event Booking Platform | [hallsystem.vercel.app](https://hallsystem.vercel.app/) | 🏛️ Event Mgmt | MERN Stack |
+| 7  | **Xylora** – Game Development Studio | [xylora-sample.vercel.app](https://xylora-sample.vercel.app/) | 🎮 Game Dev | HTML, CSS, JS |
+| 8  | **Gigeo Bill System** – Billing Automation | [gigeobillsystem.vercel.app](https://gigeobillsystem.vercel.app/) | 💵 FinTech | React, Node.js |
+| 9  | **Gigeo Enterprises** – Business Platform | [dev-gigeoenterprises.pantheonsite.io](https://dev-gigeoenterprises.pantheonsite.io) | 🧾 Business | WordPress |
+| 10 | **Rajartss** – Abstract Art Gallery | [rajartss.com](https://www.rajartss.com/) | 🖼️ Creative | React |
+| 11 | **Bharath Forklift** – Equipment Rental | [forklift-mu.vercel.app](https://forklift-mu.vercel.app/) | 🚜 Rentals | React, Tailwind |
+| 12 | **Supreme KamTech** – Seaweed Cultivation | [supremekamtech.vercel.app](https://supremekamtech.vercel.app/) | 🌿 AgriTech | React |
+| 13 | **Rajagopal Portfolio** – Dev Portfolio | [rajagopal-portfolio.vercel.app](https://rajagopal-portfolio.vercel.app/) | 👨‍💻 Web Portfolio | React |
+| 14 | **ExploitX CTF** – Cybersecurity Platform | [exploitx-ctf.in](https://www.exploitx-ctf.in) | 🔐 CTF | React, Firebase |
+| 15 | **KPR Awards** – Nomination Portal | [awardkpriet02.vercel.app](https://awardkpriet02.vercel.app) | 🏅 Academic | React, Vite |
+| 16 | **3D Product Viewer** – Three.js Showcase | [3dmodelv1.vercel.app](https://3dmodelv1.vercel.app) | 🧊 3D Web | Three.js |
+| 17 | **CertificateGenX** – Bulk Certificate Generator | [certificategenx.vercel.app](https://certificategenx.vercel.app) | 📄 Automation | React, SheetJS |
+| 18 | **Nandhagopal Portfolio** – Academic Profile | [nandhagopals.vercel.app](https://nandhagopals.vercel.app) | 👨‍🎓 Profile | React |
+| 19 | **CardsGenX** – QR Label Generator | [cardsgenx.vercel.app](https://cardsgenx.vercel.app) | 🪪 Automation | React |
+| 20 | **Eden Park** – SaaS Product Showcase | [edenparknew.vercel.app](https://edenparknew.vercel.app) | 📈 Product | React |
+| 21 | **AIML Dept Portal** – KPRIET Dept Site | [aiml-phi.vercel.app](https://aiml-phi.vercel.app/) | 🎓 Academic | React |
+| 22 | **Dr. Kothai Portfolio** – Research Profile | [kothai.vercel.app](https://kothai.vercel.app/) | 📚 Academic | React |
+| 23 | **TaskHub** – Collaborative Task Manager | [taskhub-todo.vercel.app](https://taskhub-todo.vercel.app/) | ✅ Productivity Tool | Next.js, Supabase, Social Login |
+| 24 | **DonorAid** – Smart Donation Platform | [donoraid.vercel.app](https://donoraid.vercel.app/) | 🤝 Donation Platform | Next.js, Supabase, Email |
 
 ---
 
