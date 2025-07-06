@@ -57,31 +57,34 @@ I specialize in building **modern, responsive, and user-friendly web application
 
 ## 🔗 Reach Me
 
-## 📬 Reach Me
-
 <p align="left">
+
   <a href="mailto:22am036@kpriet.ac.in">
     <img src="https://img.shields.io/badge/Gmail-22am036@kpriet.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>  
-  ➤ [22am036@kpriet.ac.in](mailto:22am036@kpriet.ac.in)
+  &nbsp; ➤ [**22am036@kpriet.ac.in**](mailto:22am036@kpriet.ac.in)
+
   <br/><br/>
 
-  <a href="https://mugeshkannan.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://mugeshkannan.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>  
-  ➤ [mugeshkannan.vercel.app](https://mugeshkannan.vercel.app)
+  &nbsp; ➤ [**mugeshkannan.vercel.app**](https://mugeshkannan.vercel.app)
+
   <br/><br/>
 
-  <a href="https://linkedin.com/in/mugeshkannan">
+  <a href="https://linkedin.com/in/mugeshkannan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>  
-  ➤ [linkedin.com/in/mugeshkannan](https://linkedin.com/in/mugeshkannan)
+  &nbsp; ➤ [**linkedin.com/in/mugeshkannan**](https://linkedin.com/in/mugeshkannan)
+
   <br/><br/>
 
-  <a href="https://github.com/MUGESHKANNANS">
+  <a href="https://github.com/MUGESHKANNANS" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>  
-  ➤ [github.com/MUGESHKANNANS](https://github.com/MUGESHKANNANS)
+  &nbsp; ➤ [**github.com/MUGESHKANNANS**](https://github.com/MUGESHKANNANS)
+
 </p>
 
 
@@ -147,6 +150,15 @@ I specialize in building **modern, responsive, and user-friendly web application
 
 ---
 
+
+## 🧩 Fun Facts
+
+- 🧠 I learn best by doing — I prefer real-world projects over tutorials  
+- 🔧 I love optimizing UI/UX — even a button hover effect makes me happy  
+- 🧘 I start my day with a gym session and end it with side-project coding  
+- 🎮 I enjoy games that challenge problem-solving and logic  
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -158,17 +170,8 @@ I specialize in building **modern, responsive, and user-friendly web application
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUGESHKANNANS&layout=compact&theme=radical" width="40%"/>
 </p>
 
----
-
-## 🧩 Fun Facts
-
-- 🧠 I learn best by doing — I prefer real-world projects over tutorials  
-- 🔧 I love optimizing UI/UX — even a button hover effect makes me happy  
-- 🧘 I start my day with a gym session and end it with side-project coding  
-- 🎮 I enjoy games that challenge problem-solving and logic  
 
 ---
-
 <!---
 MUGESHKANNANS/MUGESHKANNANS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to check it out.
