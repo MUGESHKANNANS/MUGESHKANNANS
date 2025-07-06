@@ -62,33 +62,27 @@ I specialize in building **modern, responsive, and user-friendly web application
   <a href="mailto:kannanmugesh04@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-kannanmugesh04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>  
-  
 
   <br/><br/>
 
   <a href="https://mugeshkannan.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit:mugeshkannan.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐 Portfolio-mugeshkannan.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>  
- 
+
   <br/><br/>
 
-<a href="https://linkedin.com/in/mugeshkannans" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn icon" style="vertical-align: middle;"/> 
-  <span style="margin-left: 5px;">linkedin.com/in/mugeshkannans</span>
-</a>
-
-  
+  <a href="https://linkedin.com/in/mugeshkannans" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn icon" style="margin-right: 8px;" />
+    <span style="font-size: 16px; color: #0A66C2;">linkedin.com/in/mugeshkannans</span>
+  </a>  
 
   <br/><br/>
 
   <a href="https://github.com/MUGESHKANNANS" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Follow:github.com/MUGESHKANNANS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-github.com/MUGESHKANNANS-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>  
-  
 
 </p>
-
-
 
 ---
 
